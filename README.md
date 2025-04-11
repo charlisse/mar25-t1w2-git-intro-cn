@@ -3,5 +3,4 @@
 
 ## Live Demo 
 
-- https://effulgent-taffy-bebfb0.netlify.app/
-  
+- https://wondrous-queijadas-fe3dc7.netlify.app/  
